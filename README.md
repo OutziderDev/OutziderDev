@@ -1,5 +1,5 @@
 ## ¡👋Hey, Soy Luis Barrios !
-Desarrollador de Software con más de un año de experiencia en el creación de sistemas y páginas web. He trabajado diversos proyectos freelance y colaboraciones los cuales me han permitido adquirir sólidos conocimientos en tecnologías de frontend, backend y bases de datos.
+Desarrollador de Software con más de un año de experiencia en el creación de sistemas y páginas web. Desarrollé múltiples proyectos freelance y colaboré en iniciativas externas, adquiriendo dominio en tecnologías frontend, backend y bases de datos.
 Me apasiona el desarrollo de software y la tecnología en general; siempre busco mejorar mis habilidades explorando nuevas herramientas y creando soluciones innovadoras.
 
 ### Contacto
